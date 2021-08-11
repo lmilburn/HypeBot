@@ -9,6 +9,8 @@ I am planning on further developing the bot to price compare across multiple sit
 ## Changelog + To-Do
 Version 0.1 - Bot scrapes a single website and users can obtain a "daily" item by invoking "!daily". Items which are out of stock on the website cannot be obtained, adding a sense of rarity to certain items
 
+Version 0.11 - Inventory system fixed, bug was preventing item from being properly stored in json file in user's inventory.
+
 Version 0.2 (still bugtesting) - Users have inventory systems which keep track of their items they've earned. They also have an overall monetary balance from items they have sold. Users can quicksell the items they get for 70% of the listed price. Items will randomly drop for users in the server.
 
 Future features I would like to implement:
